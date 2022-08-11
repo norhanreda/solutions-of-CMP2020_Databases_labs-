@@ -1,0 +1,9 @@
+D:\Astudy\second year\first term\data base\labs\labs requirements\lab4\company\company\bin\Debug\company.exe.config
+D:\Astudy\second year\first term\data base\labs\labs requirements\lab4\company\company\bin\Debug\company.exe
+D:\Astudy\second year\first term\data base\labs\labs requirements\lab4\company\company\bin\Debug\company.pdb
+D:\Astudy\second year\first term\data base\labs\labs requirements\lab4\company\company\obj\Debug\company.csprojResolveAssemblyReference.cache
+D:\Astudy\second year\first term\data base\labs\labs requirements\lab4\company\company\obj\Debug\company.company.resources
+D:\Astudy\second year\first term\data base\labs\labs requirements\lab4\company\company\obj\Debug\company.Properties.Resources.resources
+D:\Astudy\second year\first term\data base\labs\labs requirements\lab4\company\company\obj\Debug\company.csproj.GenerateResource.Cache
+D:\Astudy\second year\first term\data base\labs\labs requirements\lab4\company\company\obj\Debug\company.exe
+D:\Astudy\second year\first term\data base\labs\labs requirements\lab4\company\company\obj\Debug\company.pdb

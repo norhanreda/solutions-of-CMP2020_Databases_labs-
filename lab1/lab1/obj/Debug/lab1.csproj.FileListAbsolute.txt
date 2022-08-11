@@ -1,0 +1,28 @@
+C:\Users\norhan(aa)\Music\second year\first term\data base\labs\lab2\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\norhan(aa)\Music\second year\first term\data base\labs\lab2\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\norhan(aa)\Music\second year\first term\data base\labs\lab2\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\norhan(aa)\Music\second year\first term\data base\labs\lab2\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+C:\Users\norhan(aa)\Music\second year\first term\data base\labs\lab2\lab1\lab1\obj\Debug\lab1.Form1.resources
+C:\Users\norhan(aa)\Music\second year\first term\data base\labs\lab2\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\norhan(aa)\Music\second year\first term\data base\labs\lab2\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.Cache
+C:\Users\norhan(aa)\Music\second year\first term\data base\labs\lab2\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\norhan(aa)\Music\second year\first term\data base\labs\lab2\lab1\lab1\obj\Debug\lab1.pdb
+D:\Astudy\second year\first term\data base\labs\lab2\lab1\lab1\bin\Debug\lab1.exe.config
+D:\Astudy\second year\first term\data base\labs\lab2\lab1\lab1\obj\Debug\lab1.exe
+D:\Astudy\second year\first term\data base\labs\lab2\lab1\lab1\obj\Debug\lab1.pdb
+D:\Astudy\second year\first term\data base\labs\lab2\lab1\lab1\bin\Debug\lab1.exe
+D:\Astudy\second year\first term\data base\labs\lab2\lab1\lab1\bin\Debug\lab1.pdb
+D:\Astudy\second year\first term\data base\labs\lab2\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+D:\Astudy\second year\first term\data base\labs\lab2\lab1\lab1\obj\Debug\lab1.Form1.resources
+D:\Astudy\second year\first term\data base\labs\lab2\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+D:\Astudy\second year\first term\data base\labs\lab2\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.Cache
+D:\Astudy\second year\first term\data base\labs\labs requirements\lab1\lab1\bin\Debug\lab1.exe.config
+D:\Astudy\second year\first term\data base\labs\labs requirements\lab1\lab1\obj\Debug\lab1.exe
+D:\Astudy\second year\first term\data base\labs\labs requirements\lab1\lab1\obj\Debug\lab1.pdb
+D:\Astudy\second year\first term\data base\labs\labs requirements\lab1\lab1\bin\Debug\lab1.exe
+D:\Astudy\second year\first term\data base\labs\labs requirements\lab1\lab1\bin\Debug\lab1.pdb
+D:\Astudy\second year\first term\data base\labs\labs requirements\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+D:\Astudy\second year\first term\data base\labs\labs requirements\lab1\lab1\obj\Debug\lab1.Form1.resources
+D:\Astudy\second year\first term\data base\labs\labs requirements\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+D:\Astudy\second year\first term\data base\labs\labs requirements\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.Cache
+D:\Astudy\second year\first term\data base\labs\labs requirements\lab1\lab1\obj\Debug\lab1.Form2.resources

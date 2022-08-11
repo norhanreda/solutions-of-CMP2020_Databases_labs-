@@ -1,0 +1,35 @@
+D:\Astudy\second year\first term\data base\labs\labs requirements\lab4\company\company\bin\Debug\company.exe.config
+D:\Astudy\second year\first term\data base\labs\labs requirements\lab4\company\company\bin\Debug\company.exe
+D:\Astudy\second year\first term\data base\labs\labs requirements\lab4\company\company\bin\Debug\company.pdb
+D:\Astudy\second year\first term\data base\labs\labs requirements\lab4\company\company\obj\Debug\company.csprojResolveAssemblyReference.cache
+D:\Astudy\second year\first term\data base\labs\labs requirements\lab4\company\company\obj\Debug\company.company.resources
+D:\Astudy\second year\first term\data base\labs\labs requirements\lab4\company\company\obj\Debug\company.Properties.Resources.resources
+D:\Astudy\second year\first term\data base\labs\labs requirements\lab4\company\company\obj\Debug\company.csproj.GenerateResource.Cache
+D:\Astudy\second year\first term\data base\labs\labs requirements\lab4\company\company\obj\Debug\company.exe
+D:\Astudy\second year\first term\data base\labs\labs requirements\lab4\company\company\obj\Debug\company.pdb
+D:\Astudy\second year\first term\data base\labs\oldlabexams\company\company\bin\Debug\company.exe.config
+D:\Astudy\second year\first term\data base\labs\oldlabexams\company\company\obj\Debug\company.exe
+D:\Astudy\second year\first term\data base\labs\oldlabexams\company\company\obj\Debug\company.pdb
+D:\Astudy\second year\first term\data base\labs\oldlabexams\company\company\bin\Debug\company.exe
+D:\Astudy\second year\first term\data base\labs\oldlabexams\company\company\bin\Debug\company.pdb
+D:\Astudy\second year\first term\data base\labs\oldlabexams\company\company\obj\Debug\company.csprojResolveAssemblyReference.cache
+D:\Astudy\second year\first term\data base\labs\oldlabexams\company\company\obj\Debug\company.Editdatabase.resources
+D:\Astudy\second year\first term\data base\labs\oldlabexams\company\company\obj\Debug\company.Properties.Resources.resources
+D:\Astudy\second year\first term\data base\labs\oldlabexams\company\company\obj\Debug\company.Showdatabase.resources
+D:\Astudy\second year\first term\data base\labs\oldlabexams\company\company\obj\Debug\company.welcome.resources
+D:\Astudy\second year\first term\data base\labs\oldlabexams\company\company\obj\Debug\company.csproj.GenerateResource.Cache
+C:\Users\pc-lab002-020\Desktop\norhan reda\labexam\lastyear\company\bin\Debug\company.exe.config
+C:\Users\pc-lab002-020\Desktop\norhan reda\labexam\lastyear\company\obj\Debug\company.exe
+C:\Users\pc-lab002-020\Desktop\norhan reda\labexam\lastyear\company\obj\Debug\company.pdb
+C:\Users\pc-lab002-020\Desktop\norhan reda\labexam\lastyear\company\obj\Debug\company.csprojResolveAssemblyReference.cache
+C:\Users\pc-lab002-020\Desktop\norhan reda\labexam\lastyear\company\obj\Debug\company.Editdatabase.resources
+C:\Users\pc-lab002-020\Desktop\norhan reda\labexam\lastyear\company\obj\Debug\company.Properties.Resources.resources
+C:\Users\pc-lab002-020\Desktop\norhan reda\labexam\lastyear\company\obj\Debug\company.Showdatabase.resources
+C:\Users\pc-lab002-020\Desktop\norhan reda\labexam\lastyear\company\obj\Debug\company.welcome.resources
+C:\Users\pc-lab002-020\Desktop\norhan reda\labexam\lastyear\company\obj\Debug\company.csproj.GenerateResource.Cache
+C:\Users\pc-lab002-020\Desktop\norhan reda\labexam\lastyear\company\bin\Debug\company.exe
+C:\Users\pc-lab002-020\Desktop\norhan reda\labexam\lastyear\company\bin\Debug\company.pdb
+C:\Users\pc-lab002-020\Desktop\norhan reda\labexam\lastyear\company\obj\Debug\company.Edit_database1.resources
+D:\Astudy\second year\first term\data base\labs\labexam\labexam\norhan reda\labexam\norhan reda\company\bin\Debug\company.exe.config
+D:\Astudy\second year\first term\data base\labs\labexam\labexam\norhan reda\labexam\norhan reda\company\obj\Debug\company.exe
+D:\Astudy\second year\first term\data base\labs\labexam\labexam\norhan reda\labexam\norhan reda\company\obj\Debug\company.pdb
